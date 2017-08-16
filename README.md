@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is for SMS Alerting Wyncode students whenever a parking officer is outside issuing tickets. Each registered student will receive a text message where they can either avoid the ticket or pay for time . 
 
-Things you may want to cover:
+To develop this app:
 
-* Ruby version
+* Ruby
 
-* System dependencies
+* ruby on Rails
 
-* Configuration
+* Twilio SMS
 
-* Database creation
+* HTMl, CSS and Javascript
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Deployed to Heroku https://parkvise.herokuapp.com/
